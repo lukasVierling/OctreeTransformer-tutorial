@@ -1,8 +1,10 @@
 # Octree Transformer for Autoregressive Shape Generation
 
-![Octree Transformer](octree_transformer_image.jpg)
+![Octree Transformer](images/overview.png)
 
 This repository contains a Jupyter Notebook tutorial on the **Octree Transformer for Autoregressive Shape Generation**, based on the research paper by Gregor Kobsik, Moritz Ibing, and Leif Kobbelt at RWTH Aachen University. The tutorial provides a hands-on introduction to various aspects of the Octree data structure, its application in shape representation and generation, the Octree Transformer architecture, and compression techniques for managing the complexity of 3D tasks.
+
+[Octree Trasnformer: Autoregressive 3D Shape Generation](https://openaccess.thecvf.com/content/CVPR2023W/StruCo3D/papers/Ibing_Octree_Transformer_Autoregressive_3D_Shape_Generation_on_Hierarchically_Structured_Sequences_CVPRW_2023_paper.pdf)
 
 ## Tutorial Highlights
 
@@ -33,12 +35,12 @@ To dive into the tutorial and experience the power of Octree Transformer for aut
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/octree-transformer-tutorial.git
+   git clone https://github.com/lukasVierling/octree-transformer-tutorial.git
     ```
 2. Install the required dependencies by setting up a Python environment:
 
    ```bash
-   conda create -n octree-transformer-env python=3.8
+   conda create -n octree-transformer-env python=3.9
    conda activate octree-transformer-env
    pip install -r requirements.txt
    ```
