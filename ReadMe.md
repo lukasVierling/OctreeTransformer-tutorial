@@ -35,7 +35,7 @@ To dive into the tutorial and experience the power of Octree Transformer for aut
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/lukasVierling/octree-transformer-tutorial.git
+   git clone https://github.com/lukasVierling/OctreeTransformer-tutorial.git
     ```
 2. Install the required dependencies by setting up a Python environment:
 
