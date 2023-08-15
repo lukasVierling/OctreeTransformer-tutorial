@@ -1,0 +1,6 @@
+dropout: 0.1
+embed_dim: 256
+num_heads: 4
+num_layers: 6
+num_vocab: 4
+resolution: 64
